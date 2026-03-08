@@ -1,0 +1,12 @@
+{
+  "name": "GitHub Copilot Guide",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:18",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat"
+      ]
+    }
+  }
+}
